@@ -1,0 +1,1 @@
+import { AdminLayout } from "@/components/admin-layout";import { EventForm } from "@/components/event-form";export default function NewEvent(){return <AdminLayout title="Tạo sự kiện"><EventForm /></AdminLayout>}
